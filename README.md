@@ -1,4 +1,4 @@
-## Microsoft REST API Guidelines
+# Microsoft REST API Guidelines
 Thank you for your interest in the Microsoft REST API Guidelines. If you have landed here, you're probably interested in learning about APIs. If so, you are in the right place!
 We publish these guidelines here with the aim of fostering dialogue and learning in the API community at large. We further hope that these guidelines might encourage other organizations to create guidelines that are appropriate for them and in turn, if they're able, to publish theirs.
 
